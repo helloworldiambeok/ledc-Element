@@ -1,3 +1,7 @@
+## 简介
+
+HTML/JavaScript生成器接口GenerateInterface
+
 ## 安装
 
 ```
